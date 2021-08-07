@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier="http" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="https" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".csv" ProgId="Excel.CSV" ApplicationName="Excel" />
+  <Association Identifier=".dqy" ProgId="dqyfile" ApplicationName="Excel" />
+  <Association Identifier=".iqy" ProgId="iqyfile" ApplicationName="Excel" />
+  <Association Identifier=".odc" ProgId="odcfile" ApplicationName="Excel" />
+  <Association Identifier=".ods" ProgId="Excel.OpenDocumentSpreadsheet.12" ApplicationName="Excel" />
+  <Association Identifier=".slk" ProgId="Excel.SLK" ApplicationName="Excel" />
+  <Association Identifier=".xla" ProgId="Excel.Addin" ApplicationName="Excel" />
+  <Association Identifier=".xlam" ProgId="Excel.AddInMacroEnabled" ApplicationName="Excel" />
+  <Association Identifier=".xlk" ProgId="Excel.Backup" ApplicationName="Excel" />
+  <Association Identifier=".xll" ProgId="Excel.XLL" ApplicationName="Excel" />
+  <Association Identifier=".xlm" ProgId="Excel.Macrosheet" ApplicationName="Excel" />
+  <Association Identifier=".xls" ProgId="Excel.Sheet.8" ApplicationName="Excel" />
+  <Association Identifier=".xlsb" ProgId="Excel.SheetBinaryMacroEnabled.12" ApplicationName="Excel" />
+  <Association Identifier=".xlshtml" ProgId="Excelhtmlfile" ApplicationName="Excel" />
+  <Association Identifier=".xlsm" ProgId="Excel.SheetMacroEnabled.12" ApplicationName="Excel" />
+  <Association Identifier=".xlsx" ProgId="Excel.Sheet.12" ApplicationName="Excel" />
+  <Association Identifier=".xlt" ProgId="Excel.Template.8" ApplicationName="Excel" />
+  <Association Identifier=".xlthtml" ProgId="Excelhtmltemplate" ApplicationName="Excel" />
+  <Association Identifier=".xltm" ProgId="Excel.TemplateMacroEnabled" ApplicationName="Excel" />
+  <Association Identifier=".xltx" ProgId="Excel.Template" ApplicationName="Excel" />
+  <Association Identifier="MS-EXCEL" ProgId="Excel.UriLink.16" ApplicationName="Excel" />
+  <Association Identifier=".doc" ProgId="Word.Document.8" ApplicationName="Word" />
+  <Association Identifier=".docm" ProgId="Word.DocumentMacroEnabled.12" ApplicationName="Word" />
+  <Association Identifier=".docx" ProgId="Word.Document.12" ApplicationName="Word" />
+  <Association Identifier=".dot" ProgId="Word.Template.8" ApplicationName="Word" />
+  <Association Identifier=".dotm" ProgId="Word.TemplateMacroEnabled.12" ApplicationName="Word" />
+  <Association Identifier=".dotx" ProgId="Word.Template.12" ApplicationName="Word" />
+  <Association Identifier=".odt" ProgId="Word.OpenDocumentText.12" ApplicationName="Word" />
+  <Association Identifier=".rtf" ProgId="Word.RTF.8" ApplicationName="Word" />
+  <Association Identifier=".wbk" ProgId="Word.Backup.8" ApplicationName="Word" />
+  <Association Identifier=".wiz" ProgId="Word.Wizard.8" ApplicationName="Word" />
+  <Association Identifier="MS-WORD" ProgId="Word.UriLink.16" ApplicationName="Word" />
+  <Association Identifier=".eml" ProgId="Outlook.File.eml.15" ApplicationName="Outlook" />
+  <Association Identifier=".hol" ProgId="Outlook.File.hol.15" ApplicationName="Outlook" />
+  <Association Identifier=".ics" ProgId="Outlook.File.ics.15" ApplicationName="Outlook" />
+  <Association Identifier=".msg" ProgId="Outlook.File.msg.15" ApplicationName="Outlook" />
+  <Association Identifier=".oft" ProgId="Outlook.File.oft.15" ApplicationName="Outlook" />
+  <Association Identifier=".pst" ProgId="Outlook.File.pst.15" ApplicationName="Outlook" />
+  <Association Identifier=".vcf" ProgId="Outlook.File.vcf.15" ApplicationName="Outlook" />
+  <Association Identifier=".vcs" ProgId="Outlook.File.vcs.15" ApplicationName="Outlook" />
+  <Association Identifier="FEED" ProgId="Outlook.URL.feed.15" ApplicationName="Outlook" />
+  <Association Identifier="FEEDS" ProgId="Outlook.URL.feed.15" ApplicationName="Outlook" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook" />
+  <Association Identifier="STSSYNC" ProgId="Outlook.URL.stssync.15" ApplicationName="Outlook" />
+  <Association Identifier="WEBCAL" ProgId="Outlook.URL.webcal.15" ApplicationName="Outlook" />
+  <Association Identifier="WEBCALS" ProgId="Outlook.URL.webcal.15" ApplicationName="Outlook" />
+  <Association Identifier=".odp" ProgId="PowerPoint.OpenDocumentPresentation.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".pot" ProgId="PowerPoint.Template.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".potm" ProgId="PowerPoint.TemplateMacroEnabled.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".potx" ProgId="PowerPoint.Template.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppa" ProgId="PowerPoint.Addin.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppam" ProgId="PowerPoint.Addin.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".pps" ProgId="PowerPoint.SlideShow.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppsm" ProgId="PowerPoint.SlideShowMacroEnabled.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppsx" ProgId="PowerPoint.SlideShow.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppt" ProgId="PowerPoint.Show.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".pptm" ProgId="PowerPoint.ShowMacroEnabled.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".pptx" ProgId="PowerPoint.Show.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".pwz" ProgId="PowerPoint.Wizard.8" ApplicationName="PowerPoint" />
+  <Association Identifier="MS-POWERPOINT" ProgId="PowerPoint.UriLink.16" ApplicationName="PowerPoint" />
+  <Association Identifier=".pub" ProgId="Publisher.Document.16" ApplicationName="Publisher" />
+  <Association Identifier="MS-PUBLISHER" ProgId="Publisher.UriLink.16" ApplicationName="Publisher" />
+</DefaultAssociations>
