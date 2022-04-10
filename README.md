@@ -1,10 +1,35 @@
 # Windows Setup 💻
 
-> This setup guide was created using Microsoft Windows 10 Pro.
+> Suite of a variety of useful tools and scripts bundled as a PowerShell Module for setting up and customizing an optimal environment for a machine running on Windows 10 or 11.
+
+## Desired Features
+
+The desired outcome of this module is to provide support for the following features related to setting up and configuring Windows:
+
+- Windows System Settings
+- Network Settings
+- Explorer Settings
+- User Profiles and Folders
+- System Drivers
+- Creating ISO Images and Virtual Hard Disks (.vhdx)
+- Hyper-V and VMs
+- Credentials and Secrets Management:
 
 This setup guide incorporates the following areas into the setup & configuration of Windows:
 
 - Windows Settings
+  - Windows Update Settings
+    - (Optional) Activation of Windows Insider Preview
+    - Automation of downloading and installing the latest Windows updates
+    - Ability to troubleshoot and reset Windows Update related services and settings (DISM, WSUS, BITS, Registry Entries, Restore Points, SFC, Winsock)
+  - System Settings
+    - Power Plan Configuration (pwrcfg)
+      - Enable High Performance Power Plans
+      - Ability to create, backup, and restore custom Power Plans
+    - Display and Sound:
+      - Setup Monitors, Brightness, Night Light, and Display Profile
+    - Storage:
+      - Activate and Configure Storage Sense
 - Explorer Settings
 - Optional Features
 - User Profiles
@@ -34,7 +59,7 @@ This setup guide incorporates the following areas into the setup & configuration
   - System Wide (All Users) Software
   - User Software
   - Manual Executable Installations
--
+
 
 ## Contents
 
